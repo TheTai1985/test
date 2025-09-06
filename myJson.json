@@ -1,4 +1,5 @@
 {
-  "name":["John","Smith"],
-  "age":16
+  "name":["John","Smith","Ted"],
+  "age":39,
+  "school":"NTHU"
 }
